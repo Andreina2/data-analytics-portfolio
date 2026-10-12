@@ -15,7 +15,11 @@
 - **Puntos Clave:** Análisis de variaciones mensuales (déficit/superávit), segmentación de ingresos/egresos y métricas DAX de cumplimiento de metas y saldo disponible.
 - 🔗 **[Ver proyecto completo y documentación ➔](./02-Personal-Finance-Dashboard)**
 
-
+### 3. 📊 [Caso de Negocio Integral: Business Data Analyst (Marketing, Sales & CS)](./03-Business-Data-Analyst-Case)
+- **Herramienta:** Power BI Desktop | DAX | Power Query
+- **Descripción:** Análisis 360° del embudo comercial (140 usuarios adquiridos, 1.650 € de inversión) evaluando eficiencia publicitaria (CAC/SEM), tasa de cancelación (Churn Rate del 46,43%) y resolución de tickets de soporte (CSAT).
+- **Puntos Clave:** Cálculo de métricas avanzadas de clientes (CAC, Churn, CSAT, ART), correlación entre tiempo de resolución y satisfacción, y segmentación geográfica/canal.
+- 🔗 **[Ver proyecto completo y documentación ➔](./03-Business-Data-Analyst-Case)**
 
 ## 📫 Contacto
 - **LinkedIn:** [linkedin.com/in/andreina-arias](https://linkedin.com/in/andreina-arias)
